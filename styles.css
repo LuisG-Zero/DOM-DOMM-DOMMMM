@@ -1,0 +1,21 @@
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: 1em;
+    color: white;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#square-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
